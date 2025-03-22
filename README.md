@@ -1,1 +1,1 @@
-# Machine-Learning-Basics-and-Projects
+# MachineLearning_Basics&Projects
